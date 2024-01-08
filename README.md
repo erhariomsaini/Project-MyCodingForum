@@ -14,7 +14,7 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 ![Screenshot (49)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/dd7b85ae-4cba-48da-8b55-dec80887ae00) <br/><br/>
 ### Screenshot-4 : After Logged In Home Page
 ![Screenshot (50)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/776e2169-97de-4c12-b58d-af2eba7e875a) <br/><br/>
-### Screenshot-5 : Sign Up functinality
+### Screenshot-5 : Top categories dropdown and browse more categories functinality
 ![Screenshot (51)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/f1a2a401-d2fa-4338-8f2c-c6f7d7835bd3) <br/><br/>
 ### Screenshot-6 : Sign Up functinality
 ![Screenshot (52)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/11b90347-d57d-4dc3-af0e-96c898057311) <br/><br/>
