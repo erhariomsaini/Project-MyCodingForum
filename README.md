@@ -2,9 +2,9 @@
 ### Link : https://mycodingforum.000webhostapp.com/ <br/><br/>
 This is MyCodingForum website for discussion related with different programming languages and coding problems.<br/><br/>
 Using this app, authenticated user can view & add threads and comments related to coding & programming languages. If user is not authenticated, then user can only view threads and comments but can't add it. All Users, Threads and Comments data is stored in MySQL database.<br/><br/>
-###Tech Stack : 
+### Tech Stack : 
 PHP, My SQL, HTML, Bootstrap<br/><br/>
-###Screenshots of MyCodingForum Website :<br/><br/>
+### Screenshots of MyCodingForum Website :<br/><br/>
 ![Screenshot (47)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/0b7f75b8-b677-43d3-948b-ee5799bdd4bb)
 ![Screenshot (48)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/d49c0e54-bbbf-445a-8f92-8bf69989035f)
 ![Screenshot (49)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/dd7b85ae-4cba-48da-8b55-dec80887ae00)
