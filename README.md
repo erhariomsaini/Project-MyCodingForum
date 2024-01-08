@@ -6,6 +6,7 @@ Using this app, authenticated user can view & add threads and comments related t
 ## Tech Stack : 
 PHP, My SQL, HTML, Bootstrap<br/><br/>
 ## Screenshots of MyCodingForum Website :
+(Wait for a while to load screenshots)
 ### Screenshot-1 : Landing Page
 ![Screenshot (47)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/0b7f75b8-b677-43d3-948b-ee5799bdd4bb) <br/></br>
 ### Screenshot-2 : Sign Up functinality
@@ -30,3 +31,4 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 ![Screenshot (57)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/74971590-d80f-4d3b-9dad-6e5cafbb258d) <br/><br/>
 ### Screenshot-12 : Showing disabled Add comment section after logging out
 ![Screenshot (58)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/aaffe4c4-7488-4e61-9769-eb8fb0cef0f5) <br/><br/>
+# Thank you :)
