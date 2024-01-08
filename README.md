@@ -24,9 +24,9 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 ![Screenshot (54)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/a613b0e5-7ae9-4a23-9d8f-39bda738bacd) <br/><br/>
 ### Screenshot-9 : Search functinality - showing results for python keyword search
 ![Screenshot (55)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/2b51e289-7bd5-4cce-8da0-8c7a0cb8df57) <br/><br/>
-### Screenshot-10 : Sign Up functinality
+### Screenshot-10 : Logout functinality
 ![Screenshot (56)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/f112b7c1-909f-45ea-8a40-c70d955a577a) <br/><br/>
-### Screenshot-11 : Sign Up functinality
+### Screenshot-11 : Showing disabled Ask question section after logging out
 ![Screenshot (57)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/74971590-d80f-4d3b-9dad-6e5cafbb258d) <br/><br/>
-### Screenshot-12 : Sign Up functinality
+### Screenshot-12 : Showing disabled Add comment section after logging out
 ![Screenshot (58)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/aaffe4c4-7488-4e61-9769-eb8fb0cef0f5) <br/><br/>
