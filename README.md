@@ -6,9 +6,10 @@ Using this app, authenticated user can view & add threads and comments related t
 ## Tech Stack : 
 PHP, My SQL, HTML, Bootstrap<br/><br/>
 ## Screenshots of MyCodingForum Website :
-### Screenshot-1 : Sign Up functinality<br>
-![Screenshot (47)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/0b7f75b8-b677-43d3-948b-ee5799bdd4bb)
-![Screenshot (48)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/d49c0e54-bbbf-445a-8f92-8bf69989035f)
+### Screenshot-1 : Landing Page
+![Screenshot (47)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/0b7f75b8-b677-43d3-948b-ee5799bdd4bb) <br/>
+### Screenshot-2 : Sign Up functinality
+![Screenshot (48)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/d49c0e54-bbbf-445a-8f92-8bf69989035f) <br/>
 ![Screenshot (49)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/dd7b85ae-4cba-48da-8b55-dec80887ae00)
 ![Screenshot (50)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/776e2169-97de-4c12-b58d-af2eba7e875a)
 ![Screenshot (51)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/f1a2a401-d2fa-4338-8f2c-c6f7d7835bd3)
