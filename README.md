@@ -20,9 +20,9 @@ PHP, My SQL, HTML, Bootstrap<br/><br/>
 ![Screenshot (52)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/11b90347-d57d-4dc3-af0e-96c898057311) <br/><br/>
 ### Screenshot-7 : Browsing Python Category - Ask question section
 ![Screenshot (53)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/8438df1e-c5e5-4819-9f51-618c7e8a90cb) <br/><br/>
-### Screenshot-8 : Browsing Python Category - 
+### Screenshot-8 : Browsing Python Category - Add comment section
 ![Screenshot (54)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/a613b0e5-7ae9-4a23-9d8f-39bda738bacd) <br/><br/>
-### Screenshot-9 : Sign Up functinality
+### Screenshot-9 : Search functinality - showing results for python keyword search
 ![Screenshot (55)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/2b51e289-7bd5-4cce-8da0-8c7a0cb8df57) <br/><br/>
 ### Screenshot-10 : Sign Up functinality
 ![Screenshot (56)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/f112b7c1-909f-45ea-8a40-c70d955a577a) <br/><br/>
