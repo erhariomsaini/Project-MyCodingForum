@@ -32,7 +32,7 @@
             <td><h1>Er.Hariom Saini</h1></td>
         </tr>
         <tr class="my-0">
-            <td rowspan="2"><h4>Full Stack Web Developer <br>Expert in HTML, CSS, Javascript, PHP, Laravel, Word Press, <br>MongoDB, Express JS, React JS, Node JS, Next JS...</h4></td>
+            <td rowspan="2"><h4>Junior PHP Developer <br>Technical Skills : HTML, CSS, Javascript, Core PHP, Laravel, Word Press CMS, MySQL, Bootstrap</h4></td>
         </tr>
         <tr>
             <td><pre>       <a href="https://www.instagram.com/hariom_saini_2002/"><img src="images/instagram.jfif" alt="Instagram" height="40px"></a> <a href="https://in.linkedin.com/in/hariom-saini-04540a1b5?trk=people-guest_people_search-card" ><img src="images/linkedin.png" alt="Linkedin" height="40px" class="mx-3"></a></pre></td>
