@@ -6,7 +6,7 @@ Using this website, authenticated user can view & add questions and comments rel
 ## Tech Stack : 
 PHP, My SQL, HTML, Bootstrap<br/><br/>
 ## Screenshots of MyCodingForum Website :
-(Wait for a while to load screenshots)
+(Wait for a while to load screenshots) <br/></br>
 ### Screenshot-1 : Landing Page
 ![Screenshot (47)](https://github.com/erhariomsaini/Project-MyCodingForum/assets/151992853/0b7f75b8-b677-43d3-948b-ee5799bdd4bb) <br/></br>
 ### Screenshot-2 : Sign Up functinality
